@@ -13,7 +13,7 @@ Welcome! Congratulations on your acceptance to GreyAtom's FSDSE Program. We hope
 
 ## Readings
 
- * [The Field Guide to Data Science](hhttps://s3.ap-south-1.amazonaws.com/greyatom-social/Field-Guide-To-Data-Science.pdf) was put together by Booz Allen Hamilton includes a wide range of data science topics and reads comfortably, like a magazine.
+ * [The Field Guide to Data Science](https://s3.ap-south-1.amazonaws.com/greyatom-social/Field-Guide-To-Data-Science.pdf) was put together by Booz Allen Hamilton includes a wide range of data science topics and reads comfortably, like a magazine.
 * [Analyzing the Analyzers](https://s3.ap-south-1.amazonaws.com/greyatom-social/Analyzing_the_Analyzers.pdf):An Introspective Survey of Data Scientists and Their Work
 * Read the first two chapters of [The Data Science Handbook](https://s3.ap-south-1.amazonaws.com/greyatom-social/The+Data+Science+Handbook.pdf)
   
