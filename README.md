@@ -20,14 +20,14 @@ We will share many more, when in the course, but here are some very good startin
 
 * [The Guardian](https://www.theguardian.com/data)
 * [KDnuggets](http://www.kdnuggets.com/)
-* [yhat]http://blog.yhat.com/
+* [yhat](http://blog.yhat.com/)
 
 ## Optional
 You're also more than welcome to do the following if you're keen to get extra advanced for your the course, these concepts will be covered in the class as well :
 
-* [Python Code Academy Course](https://www.codecademy.com/learn/python)
+* [Python Code Academy Course](https://www.codecademy.com/learn/python) An interactive, in-browser tutorial from Codecademy with 20+ modules and 200+ exercises. It is geared toward novice programmers
 * [Khan Academy: Probability & Statistics](https://www.khanacademy.org/math/probability)
-* [Learn Python (Codecademy)]http://www.codecademy.com/tracks/python): An interactive, in-browser tutorial from Codecademy with 20+ modules and 200+ exercises. It is geared toward novice programmers, and thus glosses over some of the details that programmers coming from other languages might find useful. It would take many hours to work through all of the exercises; skip the projects or the more repetitive exercises if you just want to work through the syntax. 
+
 
 ## Meetups
 
