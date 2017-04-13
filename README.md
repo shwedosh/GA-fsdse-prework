@@ -1,6 +1,6 @@
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/heading-git-pre-work.jpg)
 
-Welcome! Congratulations on your acceptance to GreyAtom's FSDSE Program. We hope you are really excited!! We want you to get ready for the Program and have a smooth experience. This means there is some work to be done before the start of the bootcamp.
+Welcome! Congratulations on your acceptance to GreyAtom's FSDSE Program. We hope you are really excited!! We want you to get ready for the Program and have a smooth experience. This means there is some work to be done before the start of the program.
 
 ## Installation and Setup
 
