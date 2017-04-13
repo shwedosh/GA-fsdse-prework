@@ -6,6 +6,7 @@ Welcome! Congratulations on your acceptance to GreyAtom's FSDSE Program. We hope
 
 * Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.
 * [Hands on Introduction to using Git and GitHub](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD), Kevin's video series (27 minutes) that demonstrates Git, GitHub, and how they work together.
+ 
  Two companion blog posts: 
 * [Simple guide to forks](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/)
 * [Git quick reference for beginners](http://www.dataschool.io/git-quick-reference-for-beginners/).
