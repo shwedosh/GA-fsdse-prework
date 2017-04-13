@@ -1,4 +1,4 @@
-![GitHub Logo](https://lh5.googleusercontent.com/l0E8iVRu8Lv0lFSYXNtYm_NXDeZjVpx1VDJMpTsiEFDogr1QekROgDD5Rh9KKiTdKCk3FMZkzsW-6RiBwqgXx-Ez1NzZLpg84FUf=w1349-h586-rw)
+![GitHub Logo](https://lh3.googleusercontent.com/OrqdkLyjkdjgmGgCilD3nSjc0Edw537R1d5AFDB29TqXmzfKDXjM0LHSys1ClcUcBoxsv1XJpX3GuOGYhi7Zth2-3TarfSEfLzCa=w1349-h586-rw)
 
 # Installation and Setup
 
