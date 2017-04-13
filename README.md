@@ -1,4 +1,6 @@
-![GitHub Logo](https://lh3.googleusercontent.com/OrqdkLyjkdjgmGgCilD3nSjc0Edw537R1d5AFDB29TqXmzfKDXjM0LHSys1ClcUcBoxsv1XJpX3GuOGYhi7Zth2-3TarfSEfLzCa=w1349-h586-rw)
+![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/heading-git-pre-work.jpg)
+
+Welcome! Congratulations on your acceptance to GreyAtom's FSDSE Program. We hope you are really excited!! We want you to get ready for the Program and have a smooth experience. This means there is some work to be done before the start of the bootcamp.
 
 ## Installation and Setup
 
@@ -10,11 +12,11 @@
 
 ## Readings
 
-* Read the first two chapters of [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
- * [The Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/media/file/The-Field-Guide-to-Data-Science.pdf) was put together by Booz Allen Hamilton includes a wide range of data science topics and reads comfortably, like a magazine.
-* [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf): An Introspective Survey of Data Scientists and Their Work
-
-## Follow these Blogs
+ * [The Field Guide to Data Science](hhttps://s3.ap-south-1.amazonaws.com/greyatom-social/Field-Guide-To-Data-Science.pdf) was put together by Booz Allen Hamilton includes a wide range of data science topics and reads comfortably, like a magazine.
+* [Analyzing the Analyzers](https://s3.ap-south-1.amazonaws.com/greyatom-social/Analyzing_the_Analyzers.pdf):An Introspective Survey of Data Scientists and Their Work
+* Read the first two chapters of [The Data Science Handbook](https://s3.ap-south-1.amazonaws.com/greyatom-social/The+Data+Science+Handbook.pdf)
+  
+## Blogs to Follow
 
 We will share many more, when in the course, but here are some very good starting points
 
