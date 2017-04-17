@@ -46,16 +46,9 @@ You can follow any one of the following strategies:
 
 Using VMWare to run Ubuntu 16.04 from inside of Windows is **not recommended**.
 
-In case you are new to Ubuntu, [here is a guide](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts) to get started.
+In case you are new to Ubuntu, [here is a guide](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts) to get started.Installation related help available on [Ubuntu Forums](https://ubuntuforums.org/) and [StackOverflow](https://stackoverflow.com/)
 
-# Setting up the engineering environment
-
-## Installing Python with Anaconda
-
-* You'll need to understand how Anaconda works and why we are using it to maintain our Python installation.
-* The [Python Machine Learning Setup repository](https://github.com/soumendra/python-machinelearning-setup) has all the necessary instructions. You'll have to go through all the steps outlined there (choose the `py27` environment, which is the default example used there).
-
-## Setting up Version Controlling System (Git and GitHub)
+# Setting up Version Controlling System (Git and GitHub)
 
 * Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.
 * [Hands on Introduction to using Git and GitHub](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD), video series (27 minutes)
