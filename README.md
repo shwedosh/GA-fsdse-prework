@@ -59,9 +59,8 @@ Two companion blog posts:
 
 # Pre-Reading Material
 
- * [The Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/media/file/The-Field-Guide-to-Data-Science.pdf) was put together by Booz Allen Hamilton includes a wide range of data science topics and reads comfortably, like a magazine.
- * [A Visual Introduction to Basic Statistics and Probability](http://students.brown.edu/seeing-theory/)
 * [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf):An Introspective Survey of Data Scientists and Their Work
+ * [A Visual Introduction to Basic Statistics and Probability](http://students.brown.edu/seeing-theory/)
 * Read the first two chapters of [The Data Science Handbook](http://www.thedatasciencehandbook.com/get-the-book)
 
 ## Blogs to Follow
