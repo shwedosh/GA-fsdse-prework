@@ -15,6 +15,7 @@ The material in the *Pre-Reading Material* section is optional, but highly recom
 
 
 # Setting up your operating system
+* Minimum system requirements for the laptop to be used during the course - 64 bit system, minimum 4 GB RAM, i3 and above processor
 
 * You can use either the Mac OS or Ubuntu 16.04 while working through the program.
 * A note on hardware: your machine should have the `amd64` architecture. If you are not using an ancient machine, you should be fine.
