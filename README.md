@@ -7,7 +7,7 @@ Welcome! Congratulations on your acceptance to GreyAtom's FSDSE Program. We hope
 This guide covers the following steps that you need to go through to prepare for the class.
 
 * Setting up your operating system
-* Setting up the programming environment
+* Setting up the version control system
 * Pre-Reading Material
 * Community and Meetups
 
