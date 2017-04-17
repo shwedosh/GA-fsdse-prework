@@ -59,17 +59,17 @@ Two companion blog posts:
 
 # Pre-Reading Material
 
- * [The Field Guide to Data Science](https://s3.ap-south-1.amazonaws.com/greyatom-social/Field-Guide-To-Data-Science.pdf) was put together by Booz Allen Hamilton includes a wide range of data science topics and reads comfortably, like a magazine.
+ * [The Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/media/file/The-Field-Guide-to-Data-Science.pdf) was put together by Booz Allen Hamilton includes a wide range of data science topics and reads comfortably, like a magazine.
  * [A Visual Introduction to Basic Statistics and Probability](http://students.brown.edu/seeing-theory/)
-* [Analyzing the Analyzers](https://s3.ap-south-1.amazonaws.com/greyatom-social/Analyzing_the_Analyzers.pdf):An Introspective Survey of Data Scientists and Their Work
-* Read the first two chapters of [The Data Science Handbook](https://s3.ap-south-1.amazonaws.com/greyatom-social/The+Data+Science+Handbook.pdf)
+* [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf):An Introspective Survey of Data Scientists and Their Work
+* Read the first two chapters of [The Data Science Handbook](http://www.thedatasciencehandbook.com/get-the-book)
 
 ## Blogs to Follow
 
 We will share many more, when in the course, but here are some very good starting points
 
-* [The Guardian](https://www.theguardian.com/data)
 * [KDnuggets](http://www.kdnuggets.com/)
+* [The Guardian](https://www.theguardian.com/data)
 * [yhat](http://blog.yhat.com/)
 
 ## Optional
