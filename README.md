@@ -84,9 +84,9 @@ www.meetup.com/datagiri
 
 ## GreyAtom's Philosophy on Learning
 
-### Learning is Organic – It grows. Just like a child. You can’t accelerate the years. Accept it.
-### Principal of Necessary Chaos – Chaos is part of learning. Get comfortable with it. Your objective over lifetime is to minimize the chaos.
-### Mathematics is the Only Language – You cannot escape Mathematics. Not liking Mathematics is akin to not liking Oxygen.
-### To really master any subject, know the philosophy behind it.
-### Inflection Point is “Point of Sustainable Practice” – This is the hardest part. Once you reach here. You can drive wherever. Till such time, struggle is inevitable.
-### Be hands-on, practice daily – Common sense, isn’t it?
+* Learning is Organic – It grows. Just like a child. You can’t accelerate the years. Accept it.
+* Principal of Necessary Chaos – Chaos is part of learning. Get comfortable with it. Your objective over lifetime is to minimize the chaos.
+* Mathematics is the Only Language – You cannot escape Mathematics. Not liking Mathematics is akin to not liking Oxygen.
+* To really master any subject, know the philosophy behind it.
+* Inflection Point is “Point of Sustainable Practice” – This is the hardest part. Once you reach here. You can drive wherever. Till such time, struggle is inevitable.
+* Be hands-on, practice daily – Common sense, isn’t it?
